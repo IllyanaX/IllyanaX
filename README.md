@@ -1,6 +1,6 @@
 ![](giphy.gif)
 
-## Hello World, I'm Illyana! 👋
+## Hello World, I'm Illyana!
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=illyanax&label=Profile%20views&color=0e75b6&style=flat" alt="illyanax" /> </p>
 
