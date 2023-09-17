@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Illyana Montoya</h1>
-<h3 align="center">Data Analyst | I'm crazy about programming and logic | Based in México</h3>
+<h3 align="center">Data Analyst | I love logic and origami | Based in México</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=illyanax&label=Profile%20views&color=0e75b6&style=flat" alt="illyanax" /> </p>
 
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **illana.xtabae@gmail.com**
 
-- ⚡ Fun fact **I can create a lot of things in Origami**
+- ⚡ Fun fact **I can create a lot of beautiful stuff with paper**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
