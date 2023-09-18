@@ -14,7 +14,7 @@ Ask me about **Python, Mathematics, Logic, Algorithms** and I will not stop
 
 Fluent in English and Spanish.
 
-I love creating connections, you can reach me at **illana.xtabae@gmail.com**
+I love connecting with other people, you can reach me at **illana.xtabae@gmail.com**
 
 ❣️Fun fact **I can create a lot of beautiful stuff with paper**
 
