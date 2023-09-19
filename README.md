@@ -1,6 +1,4 @@
-<p align="center">
-![](giphy.gif)
-</p>
+<img align="center" src="https://github.com/IllyanaX/IllyanaX/blob/main/giphy.gif height="30" width="40" /></a>
 
 ## Hello World, I'm Illyana!
 
