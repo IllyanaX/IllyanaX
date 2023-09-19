@@ -1,4 +1,4 @@
-<img align="center" src="https://github.com/IllyanaX/IllyanaX/blob/main/giphy.gif height="30" width="40" /></a>
+<p align="center"> <img src="giphy.gif" /> </p>
 
 ## Hello World, I'm Illyana!
 
